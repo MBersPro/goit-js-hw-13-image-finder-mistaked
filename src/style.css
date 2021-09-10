@@ -1,0 +1,16 @@
+.load-btn {
+    visibility: hidden;
+}
+
+.photo-card{
+    list-style: none;
+}
+
+.stats{
+    display: flex;
+}
+
+.stats-item{
+    margin-right: 40px;
+}
+
